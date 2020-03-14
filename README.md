@@ -1,3 +1,3 @@
 ## Bubble_Gin:
 CRUD&emsp;Demo <br/>
-Vue + Gin + MySQL
+vue + gin + gorm + mysql
